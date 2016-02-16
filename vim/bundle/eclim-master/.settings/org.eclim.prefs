@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+org.eclim.java.checkstyle.config=ant/checkstyle.xml
+org.eclim.java.doc.dest=doc/api
+org.eclim.java.doc.packagenames=org.eclim
+org.eclim.java.import.exclude=["^com.sun..*", "^sunw?..*", "^antlr..*"]
+org.eclim.java.import.package_separation_level=-1
+org.eclim.java.junit.output_dir=build/test/junit/results
+org.eclim.java.logging.impl=custom
+org.eclim.java.logging.template=eclim.logger.gst
+org.eclim.project.copyright=copyright
+org.eclim.project.vcs.web.url=http\://github.com/ervandew/eclim/
+org.eclim.project.vcs.web.viewer=github
